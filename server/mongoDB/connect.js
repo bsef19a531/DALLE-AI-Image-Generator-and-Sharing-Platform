@@ -9,3 +9,5 @@ const connectDB = (url) => {
 }
 
 export default connectDB;
+
+//Connects to the DB
